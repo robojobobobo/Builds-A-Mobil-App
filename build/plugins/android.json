@@ -1,0 +1,132 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.darktalker.cordova.screenshot": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "com.telerik.plugins.nativepagetransitions": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-build-architecture": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-actionsheet": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-cookieemperor": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-secure-storage": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-spinner": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-sqlite-storage-pgb": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "uk.co.workingedge.phonegap.plugin.launchnavigator": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-calendar": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "phonegap-plugin-push": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-plugin-crosswalk-webview": {
+      "XWALK_VERSION": "23+",
+      "XWALK_LITEVERSION": "xwalk_core_library_canary:17+",
+      "XWALK_COMMANDLINE": "--disable-pull-to-refresh-effect",
+      "XWALK_MODE": "embedded",
+      "XWALK_MULTIPLEAPK": "true",
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "com.crosswalk.cookies": {
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    },
+    "cordova-android-play-services-gradle-release": {
+      "PLAY_SERVICES_VERSION": "11.8.0",
+      "PACKAGE_NAME": "io.mxapps.robmakesamobileapp"
+    }
+  },
+  "dependent_plugins": {}
+}
